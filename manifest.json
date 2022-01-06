@@ -1,0 +1,23 @@
+{
+    "name": "Contador App Vue",
+    "short_name": "Contador Vue",
+    "description": "Primera app desarrollada en Vue por mi.",
+    "background_color": "#35495e",
+    "theme_color": "#41b883",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons": [{
+      "src": "./img/16px.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/512px.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    ]
+  }
